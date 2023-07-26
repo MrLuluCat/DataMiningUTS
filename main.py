@@ -227,7 +227,7 @@ print("----------------------------------")
 #                                               ~ ITERASI 8 ~
 print("")
 print("#"*34)
-print("           Iterasi 8")
+print("           Iterasi 8 **")
 print("#"*34)
 
 # NODE LABEL
